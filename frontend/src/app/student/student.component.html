@@ -1,0 +1,10 @@
+<div>
+    {{ student.name | uppercase }} -- {{ student.student_id }}
+    <ul>
+        <li *ngFor="let course of student.courses">
+            <p>{{ course.title }}</p>
+            <p>{{ course.grades }}</p>
+        </li>
+    </ul>
+    <button (click)="openStudentCourses()">Add course</button>
+</div>

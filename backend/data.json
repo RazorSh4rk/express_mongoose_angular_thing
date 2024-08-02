@@ -1,0 +1,126 @@
+[
+  {
+    "name": "John Doe",
+    "student_id": 1,
+    "courses": [
+      {
+        "title": "Mathematics",
+        "grades": [85, 90, 78]
+      },
+      {
+        "title": "Science",
+        "grades": [92, 88]
+      }
+    ]
+  },
+  {
+    "name": "Jane Smith",
+    "student_id": 2,
+    "courses": [
+      {
+        "title": "English",
+        "grades": [95, 98, 99]
+      },
+      {
+        "title": "History",
+        "grades": [88, 90]
+      }
+    ]
+  },
+  {
+    "name": "Bob Johnson",
+    "student_id": 3,
+    "courses": [
+      {
+        "title": "Computer Science",
+        "grades": [90, 92, 95]
+      }
+    ]
+  },
+  {
+    "name": "Alice Brown",
+    "student_id": 4,
+    "courses": [
+      {
+        "title": "Biology",
+        "grades": [85, 88, 90]
+      },
+      {
+        "title": "Chemistry",
+        "grades": [92, 95]
+      }
+    ]
+  },
+  {
+    "name": "Mike Davis",
+    "student_id": 5,
+    "courses": [
+      {
+        "title": "Physics",
+        "grades": [78, 85, 90]
+      }
+    ]
+  },
+  {
+    "name": "Emily Chen",
+    "student_id": 6,
+    "courses": [
+      {
+        "title": "English",
+        "grades": [95, 98]
+      },
+      {
+        "title": "History",
+        "grades": [88, 90]
+      }
+    ]
+  },
+  {
+    "name": "David Lee",
+    "student_id": 7,
+    "courses": [
+      {
+        "title": "Computer Science",
+        "grades": [90, 92]
+      },
+      {
+        "title": "Biology",
+        "grades": [85, 88]
+      }
+    ]
+  },
+  {
+    "name": "Sophia Patel",
+    "student_id": 8,
+    "courses": [
+      {
+        "title": "Chemistry",
+        "grades": [92, 95]
+      }
+    ]
+  },
+  {
+    "name": "Oliver Kim",
+    "student_id": 9,
+    "courses": [
+      {
+        "title": "Mathematics",
+        "grades": [85, 90]
+      },
+      {
+        "title": "Science",
+        "grades": [92, 88]
+      }
+    ]
+  },
+  {
+    "name": "Ava Wong",
+    "student_id": 10,
+    "courses": [
+      {
+        "title": "English",
+        "grades": [95, 98, 99]
+      }
+    ]
+  }
+]

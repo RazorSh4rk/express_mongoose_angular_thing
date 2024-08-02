@@ -1,0 +1,15 @@
+<div>Adding a course for {{ student.name }}</div>
+
+<form [formGroup]="updateData" (ngSubmit)="updateStudent()">
+    <p>
+        <label for="name">Course name</label>
+        <input type="text" name="name" id="name" formControlName="name">
+    </p>
+    <p>
+        <label for="grades">Course Grades</label>
+        <input type="text" name="grades" id="grades" formControlName="grades">
+    </p>
+    <p>
+        <input type="submit">
+    </p>
+</form>

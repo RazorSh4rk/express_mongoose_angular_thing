@@ -1,0 +1,17 @@
+<h1>Add new student</h1>
+<form #newStudentForm="ngForm" (ngSubmit)="saveStudent(newStudentForm)">
+    <p>
+        <label for="name">Name</label>
+        <input type="text" name="name" id="name" ngModel="name">
+    </p>
+    <p>
+        <label for="name">id</label>
+        <input type="number" name="id" id="id" ngModel="id">
+    </p>
+    <p>
+        <input type="submit">
+    </p>
+</form>
+<p>
+    Result: {{ result }}
+</p>
